@@ -28,6 +28,10 @@
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
+    "DATABASE_URL": {
+      "description": "heroku postgresql url",
+      "value": ""
+    },
     "ADMIN_ID": {
       "description": "Your user ID like 1223445566",
       "value": ""      
